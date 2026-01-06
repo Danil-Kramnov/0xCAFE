@@ -1,0 +1,17 @@
+# 0xCAFE Configuration
+# Code before coffee!
+
+user:
+  name: "Daniel Kramnov"
+  github_username: "Danil-Kramnov"
+  
+leetcode:
+  enabled: true
+  difficulty: ["Easy", "Medium", "Hard"]
+  
+git:
+  auto_commit: true
+  commit_message_template: "✅ {title} ({difficulty})"
+  
+paths:
+  challenges_dir: "./challenges"
